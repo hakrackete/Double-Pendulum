@@ -1,3 +1,5 @@
 # Double-Pendulum
-#Double Pendulum in Python.
-#Just dont change the Gravity to a high number, and yes, 9.81 ist too high, atleast for my PC
+Double Pendulum in Python.
+Just dont change the Gravity to a high number, and yes, 9.81 ist too high, atleast for my PC.
+
+Still not quite sure, if the physics are right.
